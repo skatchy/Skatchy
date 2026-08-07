@@ -9,7 +9,7 @@
 - <b>Enterprise Active Directory Lab</b>
   - [Active Directory Enterprise Environment](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Enterprise SOC Lab (Splunk)</b>
-  - [Splunk SIEM Detection & Threat Hunting]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/skatchy/Enterprise-SOC-Lab/tree/main)) 
+  - [Splunk SIEM Detection & Threat Hunting](https://github.com/skatchy/Enterprise-SOC-Lab/tree/main) 
 - <b>Microsoft Sentinel SIEM</b>
   - [Azure Sentinel SOC Lab](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Cloud Security</b>
