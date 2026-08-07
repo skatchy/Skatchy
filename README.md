@@ -9,7 +9,7 @@
 - <b>Enterprise Active Directory Lab</b>
   - [Active Directory Enterprise Environment](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Enterprise SOC Lab (Splunk)</b>
-  - [Splunk SIEM Detection & Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Splunk SIEM Detection & Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Microsoft Sentinel SIEM</b>
   - [Azure Sentinel SOC Lab](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Cloud Security</b>
@@ -28,8 +28,6 @@
   - [Packet Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - <b>Cisco Networking</b>
   - [Routing & Switching Labs](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🖥️ Windows Security Projects</h2>
 
