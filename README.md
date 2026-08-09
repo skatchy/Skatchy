@@ -36,7 +36,7 @@
 <h2> 📝 Tabletop Exercises</h2>
 
 - <b>Ransomware Tabletop Exercise</b>
-  - [Executive Incident Response Walkthrough](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Executive Incident Response Walkthrough](https://github.com/skatchy/Ransomware-Tabletop-Exercise)
 - <b>Business Email Compromise</b>
   - [BEC Response Exercise](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - <b>Insider Threat</b>
