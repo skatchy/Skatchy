@@ -17,7 +17,7 @@
 - <b>Incident Response</b>
   - [Digital Forensics Investigation](https://github.com/skatchy/Digital-Forensics-Investigation-Lab)
 - <b>Threat Hunting</b>
-  - [Windows Enterprise Threat Hunting](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows Enterprise Threat Hunting](https://github.com/skatchy/Windows-Threat-Hunting-Lab) 
 
 
 <h2>🌐 Networking & Infrastructure</h2>
