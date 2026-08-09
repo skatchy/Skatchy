@@ -38,9 +38,7 @@
 - <b>Ransomware Tabletop Exercise</b>
   - [Executive Incident Response Walkthrough](https://github.com/skatchy/Ransomware-Tabletop-Exercise)
 - <b>Business Email Compromise</b>
-  - [BEC Response Exercise](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- <b>Insider Threat</b>
-  - [Insider Attack Simulation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [BEC Response Exercise](https://github.com/skatchy/BEC-Response-Exercise-)
 - <b>Data Breach</b>
   - [Incident Response Exercise](https://www.youtube.com/watch?v=a83ASGn_V_s)
     
