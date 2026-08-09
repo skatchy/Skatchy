@@ -1,4 +1,4 @@
-<h1>Hi, I'm Somtochukwu Katchy! <br/><a href="https://www.linkedin.com/in/somto-katchy-8b9ba2242//">Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Somtochukwu Katchy! <br/><a href="https://www.linkedin.com/in/somto-katchy-8b9ba2242/">Cybersecurity Analyst</a></h1>
 
 <h2>📜 Certifications:</h2>
 
