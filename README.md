@@ -1,6 +1,6 @@
 <h1>Hi, I'm Somtochukwu Katchy! <br/><a href="https://www.linkedin.com/in/somto-katchy-8b9ba2242/">Cybersecurity Analyst</a></h1>
 
-<h2>📜 Certifications:</h2> 
+<h2>📜 Certifications: <br/><a href="file:///Users/somtokatchy/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">Cybersecurity Analyst</a></h2> 
 
  <b>CompTIA Security +  <br/><a href="file:///Users/somtokatchy/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">Cybersecurity Analyst</a></b>
 
