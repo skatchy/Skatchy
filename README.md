@@ -7,7 +7,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Enterprise Active Directory Lab</b>
-  - [Active Directory Enterprise Environment](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Enterprise Environment](https://github.com/skatchy/Enterprise-Active-Directory-Lab)
 - <b>Enterprise SOC Lab (Splunk)</b>
   - [Splunk SIEM Detection & Threat Hunting](https://github.com/skatchy/Enterprise-SOC-Lab/tree/main) 
 - <b>Microsoft Sentinel SIEM</b>
