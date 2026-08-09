@@ -26,8 +26,7 @@
   - [Enterprise Firewall Configuration](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - <b>Wireshark</b>
   - [Packet Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- <b>Cisco Networking</b>
-  - [Routing & Switching Labs](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
 
 <h2> 🖥️ Windows Security Projects</h2>
 
