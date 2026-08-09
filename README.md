@@ -2,7 +2,7 @@
 
 <h2>📜 Certifications:</h2> 
 
- <b>CompTIA Security +  <br/><a href="file:///Users/somtokatchy/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">Cybersecurity Analyst</a>
+ <b>CompTIA Security +  <br/><a href="file:///Users/somtokatchy/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">Cybersecurity Analyst</a></b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
