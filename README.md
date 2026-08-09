@@ -1,8 +1,8 @@
 <h1>Hi, I'm Somtochukwu Katchy! <br/><a href="https://www.linkedin.com/in/somto-katchy-8b9ba2242/">Cybersecurity Analyst</a></h1>
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Certifications:</h2> 
 
- <b>CompTIA Security +</b>
+ <b>CompTIA Security +  <br/><a href="file:///Users/somtokatchy/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -31,7 +31,7 @@
 <h2> 🖥️ Windows Security Projects</h2>
 
 - <b>PowerShell</b>
-  - [Windows Security Automation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Windows Security Automation](https://github.com/skatchy/PowerShell-Windows-Security-Automation)
 
 <h2> 📝 Tabletop Exercises</h2>
 
