@@ -13,7 +13,7 @@
 - <b>Microsoft Sentinel SIEM</b>
   - [Azure Sentinel SOC Lab](https://github.com/skatchy/Azure-Sentinel-SOC-Lab)
 - <b>Cloud Security</b>
-  - [AWS & pfSense Enterprise Security Lab](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [AWS & pfSense Enterprise Security Lab](https://github.com/skatchy/AWS-pfSense-Enterprise-Security-Lab)
 - <b>Incident Response</b>
   - [Digital Forensics Investigation](https://github.com/joshmadakor1/AD_PS)
 - <b>Threat Hunting</b>
