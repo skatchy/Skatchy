@@ -40,7 +40,7 @@
 - <b>Business Email Compromise</b>
   - [BEC Response Exercise](https://github.com/skatchy/BEC-Response-Exercise-)
 - <b>Data Breach</b>
-  - [Incident Response Exercise](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Incident Response Exercise](https://github.com/skatchy/Data-Breach-Incident-Response-Exercise)
     
 <h2> 🤳 Connect with me:</h2>
 
@@ -50,17 +50,3 @@
 
 [linkedin]: https://www.linkedin.com/in/somto-katchy-8b9ba2242/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
