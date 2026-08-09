@@ -1,4 +1,4 @@
-<h1>Hi, I'm Somtochukwu Katchy! <br/><a href="https://github.com/skatchy/Skatchy">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/somto-katchy-8b9ba2242//">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Somtochukwu Katchy! <br/><a href="https://www.linkedin.com/in/somto-katchy-8b9ba2242//">Cybersecurity Analyst</a></h1>
 
 <h2>📜 Certifications:</h2>
 
@@ -11,7 +11,7 @@
 - <b>Enterprise SOC Lab (Splunk)</b>
   - [Splunk SIEM Detection & Threat Hunting](https://github.com/skatchy/Enterprise-SOC-Lab/tree/main) 
 - <b>Microsoft Sentinel SIEM</b>
-  - [Azure Sentinel SOC Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Azure Sentinel SOC Lab](https://github.com/skatchy/Azure-Sentinel-SOC-Lab)
 - <b>Cloud Security</b>
   - [AWS & pfSense Enterprise Security Lab](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Incident Response</b>
