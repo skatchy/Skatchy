@@ -30,8 +30,6 @@
 
 <h2> 🖥️ Windows Security Projects</h2>
 
-- <b>Windows Hardening</b>
-  - [Windows Security Baselines](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - <b>PowerShell</b>
   - [Windows Security Automation](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
