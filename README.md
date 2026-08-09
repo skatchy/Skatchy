@@ -15,7 +15,7 @@
 - <b>Cloud Security</b>
   - [AWS & pfSense Enterprise Security Lab](https://github.com/skatchy/AWS-pfSense-Enterprise-Security-Lab)
 - <b>Incident Response</b>
-  - [Digital Forensics Investigation](https://github.com/joshmadakor1/AD_PS)
+  - [Digital Forensics Investigation](https://github.com/skatchy/Digital-Forensics-Investigation-Lab)
 - <b>Threat Hunting</b>
   - [Windows Enterprise Threat Hunting](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
